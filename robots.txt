@@ -1,0 +1,7 @@
+# EstacionaFácil - Robots.txt
+# Autor: Dante Testa (https://dantetesta.com.br)
+# Data: 14/10/2025 19:54
+# Bloquear indexação de todo o sistema
+
+User-agent: *
+Disallow: /
