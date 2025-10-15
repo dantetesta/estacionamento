@@ -3,12 +3,27 @@
 <div align="center">
 
 [![Download](https://img.shields.io/badge/📥_DOWNLOAD-Sistema_Completo-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dantetesta/estacionamento/archive/refs/heads/main.zip)
+[![Demo](https://img.shields.io/badge/🌐_DEMO-Testar_Online-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://site1.danteflix.com.br/painel/)
 
 **Versão:** 1.0.0  
 **Autor:** [Dante Testa](https://dantetesta.com.br)  
 **Data:** 14/10/2025 19:54
 
 </div>
+
+---
+
+## 🎯 Demonstração Online
+
+Teste o sistema completo em funcionamento:
+
+🔗 **Link:** [https://site1.danteflix.com.br/painel/](https://site1.danteflix.com.br/painel/)
+
+**Credenciais de Acesso:**
+- 👤 **Usuário:** `admin`
+- 🔑 **Senha:** `111111`
+
+> ⚠️ **Nota:** Esta é uma versão de demonstração. Os dados podem ser resetados periodicamente.
 
 ---
 
